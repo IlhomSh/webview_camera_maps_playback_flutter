@@ -1,6 +1,6 @@
 # video_player_test
 
-| Login                               |    
+| Screen                               |    
 |-------------------------------------|
 | <img src="./image.jpg" width="150"> | 
 
